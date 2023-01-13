@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {2022} Joseph Lord.'
+    notice: '© {year} Joseph Lord.'
 
 # Localization
 
