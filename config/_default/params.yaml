@@ -41,7 +41,9 @@ header:
 
 # Site footer
 
-# footer:
+footer:
+  copyright:
+    notice: '© {2022} Joseph Lord.'
 
 # Localization
 
