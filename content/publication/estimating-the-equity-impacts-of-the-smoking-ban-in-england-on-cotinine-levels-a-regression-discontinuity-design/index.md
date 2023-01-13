@@ -3,7 +3,8 @@ title: "Estimating the equity impacts of the smoking ban in England on cotinine
   levels: a regression discontinuity design"
 publication_types:
   - "2"
-authors: []
+authors:
+  - JosephLord
 draft: false
 featured: false
 image:
