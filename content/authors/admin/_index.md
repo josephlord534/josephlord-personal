@@ -27,21 +27,16 @@ social:
     display:
       header: true
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
   - name: Centre for Reviews and Dissemination
     url: https://www.york.ac.uk/crd/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Health Economics
+      institution: University of York
+      year: 2019
+    - course: BSc in Economics
+      institution: University of York
+      year: 2018
 superuser: true
 status:
   icon: ☕️
@@ -51,6 +46,4 @@ first_name: Alice
 email: josephlord534@gmail.com
 ---
 J﻿oseph Lord is a research fellow in health economics and evidence synthesis at the Centre for Reviews and Dissemination at the University of York. His research interests include health economic modelling and data visualisation.
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
