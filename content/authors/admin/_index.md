@@ -13,9 +13,9 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=4DJU-14AAAAJ&hl=en
-    label: Google Scholar
+    label:
     display:
-      header: true
+      header: false
   - icon: github
     icon_pack: fab
     link: https://github.com/josephlord534
@@ -39,11 +39,11 @@ education:
       year: 2018
 superuser: true
 status:
-  icon: ☕️
-last_name: Wu
+  icon:
+last_name: Lord
 highlight_name: true
-first_name: Alice
+first_name: Joseph
 email: josephlord534@gmail.com
 ---
-J﻿oseph Lord is a research fellow in health economics and evidence synthesis at the Centre for Reviews and Dissemination at the University of York. His research interests include health economic modelling and data visualisation.
+Joseph Lord is a research fellow in health economics and evidence synthesis at the Centre for Reviews and Dissemination at the University of York. His research interests include health economic modelling and data visualisation.
 {style="text-align: justify;"}
