@@ -20,12 +20,12 @@ social:
     icon_pack: fab
     link: https://github.com/josephlord534
     display:
-      header: true
+      header: false
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/josephlord534/
     display:
-      header: true
+      header: false
 organizations:
   - name: Centre for Reviews and Dissemination
     url: https://www.york.ac.uk/crd/
