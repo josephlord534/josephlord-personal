@@ -45,5 +45,5 @@ highlight_name: true
 first_name: Joseph
 email: josephlord534@gmail.com
 ---
-Joseph Lord is a research fellow in health economics and evidence synthesis at the Centre for Reviews and Dissemination at the University of York. His research interests include health economic modelling and data visualisation for market access and research and development.
+Joseph Lord is a research fellow in health economics and evidence synthesis at the Centre for Reviews and Dissemination at the University of York. His research interests include health economic modelling and data visualisation.
 {style="text-align: justify;"}
